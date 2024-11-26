@@ -2,13 +2,8 @@
 // “Hello, World!” Example: https://learn-code.wix.com/en/article/hello-world
 
 $w.onReady(function () {
-<<<<<<< HEAD
     "to the windows"
-=======
-    "to the windows" 
-
     //commnet
 
         tania doensnt know git hub
->>>>>>> refs/remotes/origin/main
 });
