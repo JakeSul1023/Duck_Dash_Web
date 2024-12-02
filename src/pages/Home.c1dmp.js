@@ -2,5 +2,5 @@
 // “Hello, World!” Example: https://learn-code.wix.com/en/article/hello-world
 
 $w.onReady(function () {
-    //Final test
+    //Jake sucks
 });
